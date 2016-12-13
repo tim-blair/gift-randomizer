@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "0.0.2"
+  },
+  "dependencies": {
+    "shuffle-array": "^1.0.0"
   }
 }
